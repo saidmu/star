@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/mujianmi/Desktop/workspace/code/star/blog",
+	"sourceRoot": "/Users/mujianmi/Desktop/workspace/code/star",
 	"sources": [
 		"themes/hugo-clarity/assets/sass/main.sass",
 		"themes/hugo-clarity/assets/sass/_variables.sass",
