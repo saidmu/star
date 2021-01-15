@@ -1,6 +1,6 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://saidmu.github.io/star/"
+baseurl = "https://saidmu.github.io/"
 title = "MuStar"
 author = "Mu"
 copyright = "Copyright © 2020–2021, MuStar; all rights reserved."
@@ -8,7 +8,7 @@ copyright = "Copyright © 2020–2021, MuStar; all rights reserved."
 paginate = 10
 theme = "hugo-clarity"
 disqusShortname = ""
-publishDir = "docs"
+publishDir = "../saidmu.github.io/"
 
 DefaultContentLanguage = "en"
 # [languages]
